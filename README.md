@@ -14,4 +14,4 @@ Filter & Sort: Players with Nationality == "Mexico" and order by Release Clause.
 
 Aggregate: groupby('Joined') to get number of players per year.
 
-Visualize (optional): Bar chart of players per year.
+Visualize: Bar chart of players per year.
